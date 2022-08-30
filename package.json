@@ -1,10 +1,5 @@
 {
   "name": "jquery-loadmask",
-  "exports": {
-    ".": "./",
-    "./js": "./jquery.loadmask.min.js",
-    "./css": "./jquery.loadmask.css"
-  },
   "author": "IncentFit",
   "homepage": "https://github.com/incentfit/jquery-loadmask",
   "version": "1.0.0"
