@@ -3,7 +3,7 @@
   "type": "commonjs",
   "exports": {
     "./js": "./jquery.loadmask.min.js",
-    "./css": "./jquery.loadmask.css",
+    "./css": "./jquery.loadmask.css"
   },
   "author": "IncentFit",
   "homepage": "https://github.com/incentfit/jquery-loadmask",
