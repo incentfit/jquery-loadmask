@@ -1,6 +1,7 @@
 {
   "name": "jquery-loadmask",
   "exports": {
+    ".": "./",
     "./js": "./jquery.loadmask.min.js",
     "./css": "./jquery.loadmask.css"
   },
